@@ -1,2 +1,2 @@
 # questions
-FAQ
+FAQ [link](https://turalinov.github.io/questions/ "questions") 
